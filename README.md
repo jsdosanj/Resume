@@ -1,10 +1,10 @@
-# resume
-My Resume
+# Jasvant Singh Dosanjh's Resume
+## Thank you for taking the time to look over my resume!
 
 <html>
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>Jasvant's Resume</title>
+  <title> Jasvant's Resume </title>
 </head>
   <embed src="JasvantSinghDosanjhResume.pdf" width="900px" height="1500px" />
   <body style="width:100%; height:100%; margin:0;">
