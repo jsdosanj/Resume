@@ -9,5 +9,7 @@ My Resume
 </head>
   <body style="width:100%; height:100%; margin:0;">
     <iframe src="https://docs.google.com/gview?url=https://github.com/jsdosanj/resume/raw/master/JasvantSinghDosanjhResume.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+    
+    <embed src="JasvantSinghDosanjhResume.pdf" width="800px" height="2100px" />
   </body>
 </html>
